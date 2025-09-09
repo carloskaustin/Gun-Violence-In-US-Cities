@@ -6,13 +6,11 @@
 ## 📖 Project Overview
 
 This project uses data from the Gun Violence Archive (GVA)
-, accessed through Kaggle, to explore patterns of gun-related murders across U.S. cities.
+, accessed through Kaggle, to explore patterns of gun-related murders across U.S. cities. With this dataset, I wanted to answer two simple questions:
 
-I wanted to answer two simple questions:
+- Which cities have had the most murders?
 
-Which cities have had the most murders?
-
-What do those yearly trends look like?
+- What do those yearly trends look like?
 
 ## 📊 Dataset
 
@@ -22,30 +20,29 @@ Time Span: 2013 → mid-2018
 
 Limitations:
 
-Data for 2018 is incomplete, as the dataset was uploaded mid-year.
+Data begins in 2013 and ends mid 2018. 2018 is incomplete, as the dataset was uploaded mid-year.
 
-No data beyond 2018 is included in this version.
 
 ## 🛠️ Methods
 
-- ## Tools: Python, Pandas, Matplotlib, Seaborn
+- Tools: Python, Pandas, Matplotlib, Seaborn
 
 Steps:
 
-- ## Cleaned and pre-processed raw GVA data.
+- Cleaned and pre-processed raw GVA data.
 
-- ## Built a bar plot showing which cities had the most murders.
+- Built a bar plot showing which cities had the most murders.
 
-- ## Built a time series plot to visualize yearly murder trends.
+- Built a time series plot to visualize yearly murder trends.
 
 ## 📈 Results
 
-- ## Cities such as Chicago, Baltimore, and Houston consistently ranked highest in total murders.
+- Cities such as Chicago, Baltimore, and Houston consistently ranked highest in total murders.
 
-- ## Yearly trends showed fluctuations across time, though 2018 data is incomplete and should be interpreted with caution.
+- Yearly trends showed fluctuations across time, though 2018 data is incomplete and should be interpreted with caution.
 
 📂 Repository Structure
-- ## analysis.ipynb   # Jupyter Notebook with code, analysis, and plots
-- ## README.md        # Project overview (this file)
+- analysis.ipynb   # Jupyter Notebook with code, analysis, and plots
+- README.md        # Project overview (this file)
 
 
