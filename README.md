@@ -16,11 +16,9 @@ This project uses data from the Gun Violence Archive (GVA)
 
 Source: Gun Violence Archive (via Kaggle)
 
-Time Span: 2013 → mid-2018
-
 Limitations:
 
-Data begins in 2013 and ends mid 2018. 2018 is incomplete, as the dataset was uploaded mid-year.
+- Data begins in 2013 and ends mid 2018. 2018 is incomplete, as the dataset was uploaded mid-year.
 
 
 ## 🛠️ Methods
