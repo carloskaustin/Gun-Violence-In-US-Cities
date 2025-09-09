@@ -1,6 +1,6 @@
-## Gun Violence in U.S. Cities (2013–2018) 🔫
+# Gun Violence in U.S. Cities 🔫
 
-# An analysis of which U.S. cities experienced the most murders and how those trends evolved over time.
+## An analysis of which U.S. cities experienced the most murders and how those trends evolved over time.
 
 
 ## 📖 Project Overview
