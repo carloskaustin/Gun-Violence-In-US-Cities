@@ -3,8 +3,6 @@
 # An analysis of which U.S. cities experienced the most murders and how those trends evolved over time.
 
 
--- 
-
 ## 📖 Project Overview
 
 This project uses data from the Gun Violence Archive (GVA)
