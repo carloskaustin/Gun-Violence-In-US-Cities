@@ -28,24 +28,24 @@ No data beyond 2018 is included in this version.
 
 ## 🛠️ Methods
 
-Tools: Python, Pandas, Matplotlib, Seaborn
+- ## Tools: Python, Pandas, Matplotlib, Seaborn
 
 Steps:
 
-Cleaned and pre-processed raw GVA data.
+- ## Cleaned and pre-processed raw GVA data.
 
-Built a bar plot showing which cities had the most murders.
+- ## Built a bar plot showing which cities had the most murders.
 
-Built a time series plot to visualize yearly murder trends.
+- ## Built a time series plot to visualize yearly murder trends.
 
 ## 📈 Results
 
-Cities such as Chicago, Baltimore, and Houston consistently ranked highest in total murders.
+- ## Cities such as Chicago, Baltimore, and Houston consistently ranked highest in total murders.
 
-Yearly trends showed fluctuations across time, though 2018 data is incomplete and should be interpreted with caution.
+- ## Yearly trends showed fluctuations across time, though 2018 data is incomplete and should be interpreted with caution.
 
 📂 Repository Structure
-├── analysis.ipynb   # Jupyter Notebook with code, analysis, and plots
-├── README.md        # Project overview (this file)
+- ## analysis.ipynb   # Jupyter Notebook with code, analysis, and plots
+- ## README.md        # Project overview (this file)
 
 
