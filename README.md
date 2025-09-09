@@ -1,39 +1,53 @@
-Gun Violence in the United States: City-Level Analysis (2013–2018)
+## Gun Violence in U.S. Cities (2013–2018) 🔫
 
-This project analyzes a dataset from the Gun Violence Archive (GVA)
-, which provides free public access to accurate information about gun-related violence in the United States. I obtained the dataset from Kaggle.
+# An analysis of which U.S. cities experienced the most murders and how those trends evolved over time.
 
-The goal of this project was to answer two simple questions:
+
+-- 
+
+## 📖 Project Overview
+
+This project uses data from the Gun Violence Archive (GVA)
+, accessed through Kaggle, to explore patterns of gun-related murders across U.S. cities.
+
+I wanted to answer two simple questions:
 
 Which cities have had the most murders?
 
-What does that trend look like on a yearly basis?
+What do those yearly trends look like?
 
-📊 Dataset
+## 📊 Dataset
 
 Source: Gun Violence Archive (via Kaggle)
 
+Time Span: 2013 → mid-2018
 
 Limitations:
 
-Data for 2018 is incomplete since the dataset was uploaded mid-year.
+Data for 2018 is incomplete, as the dataset was uploaded mid-year.
+
+No data beyond 2018 is included in this version.
+
+## 🛠️ Methods
+
+Tools: Python, Pandas, Matplotlib, Seaborn
+
+Steps:
+
+Cleaned and pre-processed raw GVA data.
+
+Built a bar plot showing which cities had the most murders.
+
+Built a time series plot to visualize yearly murder trends.
+
+## 📈 Results
+
+Cities such as Chicago, Baltimore, and Houston consistently ranked highest in total murders.
+
+Yearly trends showed fluctuations across time, though 2018 data is incomplete and should be interpreted with caution.
+
+📂 Repository Structure
+├── analysis.ipynb   # Jupyter Notebook with code, analysis, and plots
+├── README.md        # Project overview (this file)
 
 
-🔎 Methods
-
-Tools used: Python, Pandas, Matplotlib, Seaborn
-
-Analysis steps:
-
-Cleaned and pre-processed the raw data.
-
-Created a bar chart showing the cities with the highest number of murders.
-
-Created a time series plot showing yearly murder trends in selected cities.
-
-
-🛠️ Files in this repo
-
-analysis.ipynb → Jupyter Notebook with full analysis, code, and plots.
-
-README.md → Project overview (this file).
