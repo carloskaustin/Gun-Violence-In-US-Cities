@@ -37,7 +37,7 @@ Steps:
 
 - The analysis identified Chicago, Baltimore, Houston, Philadelphia, and New Orleans as the top five U.S. cities with the highest murder counts in this timeframe
 - Chicago remained the deadliest city, peaking in 2016–2017, while Baltimore surged to second. St. Louis rose steadily, Philadelphia and Houston fluctuated with slight increases, and New Orleans was the only city to show a modest decline.
-- 
+
 ## 📂 Repository Structure
 - US Murders.ipynb: Jupyter Notebook with code, analysis, and plots
 - README.md: project overview (this file)
