@@ -37,7 +37,7 @@ Steps:
 
 - Cities such as Chicago, Baltimore, and Houston consistently ranked highest in total murders.
 
-- Yearly trends showed fluctuations across time, though 2018 data is incomplete and should be interpreted with caution.
+- Yearly trends showed fluctuations across time
 
 ## 📂 Repository Structure
 - US Murders.ipynb   # Jupyter Notebook with code, analysis, and plots
