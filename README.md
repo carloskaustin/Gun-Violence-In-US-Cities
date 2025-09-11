@@ -40,6 +40,6 @@ Steps:
 - 
 ## 📂 Repository Structure
 - US Murders.ipynb: Jupyter Notebook with code, analysis, and plots
-- README.md: roject overview (this file)
+- README.md: project overview (this file)
 
 
