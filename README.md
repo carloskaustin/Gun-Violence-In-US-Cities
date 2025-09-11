@@ -39,8 +39,8 @@ Steps:
 
 - Yearly trends showed fluctuations across time, though 2018 data is incomplete and should be interpreted with caution.
 
-📂 Repository Structure
-- analysis.ipynb   # Jupyter Notebook with code, analysis, and plots
+## 📂 Repository Structure
+- US Murders.ipynb   # Jupyter Notebook with code, analysis, and plots
 - README.md        # Project overview (this file)
 
 
